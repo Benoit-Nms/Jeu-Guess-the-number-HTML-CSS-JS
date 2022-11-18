@@ -1,0 +1,24 @@
+html {
+    font-family: 'Pattaya', sans-serif;
+    font-size: 1.2rem;
+}
+    
+
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: salmon;
+  }
+
+  .lastResult {
+    color: white;
+    padding: 5px;
+    font-family: sans-serif;
+  }
+  
+.guessSubmit{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 1.1rem;
+}
